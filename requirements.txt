@@ -1,5 +1,4 @@
 GoogleNews==1.6.14
-﻿altair==5.2.0
 attrs==23.2.0
 beautifulsoup4==4.12.3
 blinker==1.7.0
