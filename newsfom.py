@@ -3,7 +3,7 @@ from GoogleNews import GoogleNews
 import base64
 
 st.set_page_config(
-    page_title="News Inovation",
+    page_title="News Innovation",
     page_icon="📰"
 )
 
